@@ -17,7 +17,9 @@ The page will reload if you make edits.\
 ### Packages to download :
 
 yarn add @material-ui/core
+
 yarn add @material-ui/icons
+
 yarn add axios
 
 ### This project uses the Material-UI react framework
